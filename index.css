@@ -18,6 +18,12 @@ h4 {
   border-bottom: none;
 }
 
+.info-button {
+  text-color: black;
+  text-align: center;
+  margin: auto;
+}
+
 .form-search {
   text-align: center;
   width: 50%;
