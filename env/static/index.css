@@ -21,7 +21,8 @@ h4 {
 }
 
 .info-button {
-  text-color: black;
+  /* !important is a quick and dirty fix, please remove later. */
+  color: black !important;
   text-align: center;
   margin: auto;
 }
