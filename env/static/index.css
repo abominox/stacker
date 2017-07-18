@@ -1,10 +1,12 @@
 body {
   background-color: #3A3A3A;
   color: white;
+  text-align: center;
+  margin: auto;
 }
 
 h1 {
-  font-size: 80;
+  font-size: 130;
   font-weight: bold;
   font-family: 'Gloria Hallelujah', sans-serif;
   text-align: center;
